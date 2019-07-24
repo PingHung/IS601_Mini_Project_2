@@ -9,7 +9,9 @@
     <header>
         @include('includes.menu')
     </header>
-
+    <br>
+    <br>
+    <br>
     <main role="main">
         @yield('content')
     </main>
