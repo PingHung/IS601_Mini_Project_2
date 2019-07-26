@@ -8,5 +8,6 @@ class Car extends Model
 {
     protected $casts = [
         'Year' => 'Int',
+        'Model' => 'String',
     ];
 }
